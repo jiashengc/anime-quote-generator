@@ -302,7 +302,7 @@ $(document).ready(function() {
       "quotenumber": 43,
       "quotesentence": "We finally became friends. I've said everything I wanted to say. Now we know everything about each other. Though, from the moment we become friends, we'll never speak to each other again.",
       "quotecharacter": "- Touma Kazusa,",
-      "quoteanime": " White Album"
+      "quoteanime": " White Album 2"
     }
     
     anime_quote[43] = {
