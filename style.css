@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Condensed);
+
+body {
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+  font-size: 16px;
+  background: url(http://i.imgur.com/4xhLPSk.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.main-header {
+  display: block;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.main-header h1 {
+  text-align: center;
+  text-shadow: -1px 1px 20px #282828;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 90px;
+  color: #ffffff;
+}
+
+.main-header h2 {
+  text-align: center;
+  margin: 2rem;
+  font-family: ;
+  font-size: 15px;
+  text-shadow: -1px 1px 5px #282828;
+  color: #ffffff;
+}
+
+.main-content {
+  padding-top: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.main-header .new-quote-button {
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-content .quote-placeholder {
+  padding-top: 20px;
+  padding-bottom: -15px;
+  font-size: 25px;
+}
+
+.main-content .sentence {
+  color: #ffffff;
+  font-size: 35px;
+  text-shadow: -3px 2px 15px #282828;
+}
+
+.main-content .author,
+.main-content .title {
+  color: #ffffff;
+  font-style: italic;
+  font-size: 15px;
+  text-shadow: -1px 1px 5px #282828;
+}
