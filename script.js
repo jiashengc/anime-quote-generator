@@ -322,8 +322,8 @@ $(document).ready(function() {
     anime_quote[45] = {
       "quotenumber": 46,
       "quotesentence": "Onii-chan! You're going to split me in half!",
-      "quotecharacter": "- Onii-chan,",
-      "quoteanime": " Every Incest Hentai"
+      "quotecharacter": "- Every Imouto,",
+      "quoteanime": " in Every Incest Hentai Ever"
     }
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
