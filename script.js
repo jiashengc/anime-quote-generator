@@ -125,9 +125,9 @@ $(document).ready(function() {
     
     anime_quote[17] = {
       "quotenumber": 18,
-      "quotesentence": "There's no use in just creating "Love". Empty hearts filled with "Love" tend to be unstable.",
-      "quotecharacter": "- Keima Katsuragi,",
-      "quoteanime": " Kami nomi zo Shiru Sekai"
+      "quotesentence": "There are only two times when a man can cry in public: when he loses his wallet and when his mother dies. And even if you cry in private, there's a severe restriction. Shed tears for others. The only thing you should be shedding for yourself is sweat. Remember that.",
+      "quotecharacter": "- Yuuji Kazami,",
+      "quoteanime": " Grisaia no Kajitsu"
     }
 
     anime_quote[18] = {
