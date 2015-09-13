@@ -76,7 +76,7 @@ $(document).ready(function() {
 
     anime_quote[10] = {
       "quotenumber": 11,
-      "quotesentence": "Poi!"
+      "quotesentence": "Poi!",
       "quotecharacter": "- Yuudachi,",
       "quoteanime": " Kantai Collection"
     }
