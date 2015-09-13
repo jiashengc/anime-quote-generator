@@ -228,6 +228,104 @@ $(document).ready(function() {
       "quoteanime": " Date A Live"
     }
     
+    anime_quote[32] = {
+      "quotenumber": 33,
+      "quotesentence": "Watching TV or playing games alone is more fun. Playing along with your friends' hobbies... Laughing at their jokes when they're not funny... All that does is tire me out.",
+      "quotecharacter": "- Yuzuru Otonashi,",
+      "quoteanime": " Angel Beats!"
+    }
+    
+    anime_quote[33] = {
+      "quotenumber": 34,
+      "quotesentence": "There’s no hope on the battlefield. It has nothing but unspeakable despair. Just a crime we call victory, paid for by the pain of the defeated. Yet humanity has never recognized this truth. And the reason for that is, in every era, a dazzling hero has blinded people with their legends and prevented them from seeing the evil of bloodshed. The true nature of humanity has not advanced a step beyond the Stone Age.",
+      "quotecharacter": "- Emiya Kiritsugu,",
+      "quoteanime": " Fate/Zero"
+    }
+    
+    anime_quote[34] = {
+      "quotenumber": 35,
+      "quotesentence": "Wishes are great because they don’t come true. We work hard because they don’t. We constantly push ourselves forward precisely because they don’t come true. But once they do what’s left to keep driving us forward?",
+      "quotecharacter": "- Alis Color,",
+      "quoteanime": " Kamisama no Inai Nichiyoubi"
+    }
+    
+    anime_quote[35] = {
+      "quotenumber": 36,
+      "quotesentence": "It is a poor knight indeed who slays one who defies him. The key is to show yourself to be superior that they will not defy you in the first place.",
+      "quotecharacter": "- Slaine Troyard,",
+      "quoteanime": " Aldnoah.Zero"
+    }
+    
+    anime_quote[36] = {
+      "quotenumber": 37,
+      "quotesentence": "I always have this feeling... The feeling that I'm losing something. The world is really beautiful, but... it feels like it's just me... who's drifting away from it.",
+      "quotecharacter": "- Sayuri Sawatari,",
+      "quoteanime": " Kumo no Mukou, Yakusoku no Basho"
+    }
+    
+    anime_quote[37] = {
+      "quotenumber": 38,
+      "quotesentence": "The moment you say a word of parting, you've already parted. So long as you and I are both somewhere in this world, we haven’t parted. So long as you don’t say it, you haven’t parted.",
+      "quotecharacter": "- Satone Shichimiya,",
+      "quoteanime": " Chuunibyou Demo Koi Ga Shitai!"
+    }
+    
+    anime_quote[38] = {
+      "quotenumber": 39,
+      "quotesentence": "Because she learned about happiness, she feels lonely for the first time. And because she knows unhappiness, she understands happiness for the first time.",
+      "quotecharacter": "- Himura Yuu,",
+      "quoteanime": " Ef - A Fairy Tale Of The Two"
+    }
+    
+    anime_quote[39] = {
+      "quotenumber": 40,
+      "quotesentence": "Playing a game by yourself is boring. You need a loser to crush so badly they can't recover.",
+      "quotecharacter": "- Five,",
+      "quoteanime": " Zankyou no Terror"
+    }
+    
+    anime_quote[40] = {
+      "quotenumber": 41,
+      "quotesentence": "It's okay. Fuck my brains out.",
+      "quotecharacter": "- Sora Kasugano,",
+      "quoteanime": " Yosuga no Sora: In Solitude, Where We Are Least Alone."
+    }
+    
+    anime_quote[41] = {
+      "quotenumber": 42,
+      "quotesentence": "Love, passion, why do we get caught up by such troublesome feelings? The mind couldn't ever get things straight, and you lose control to know what is sensible. Deep down it's all so vexing.",
+      "quotecharacter": "- Takumi Usui,",
+      "quoteanime": " Kaichou Wa Maid-Sama!"
+    }
+    
+    anime_quote[42] = {
+      "quotenumber": 43,
+      "quotesentence": "We finally became friends. I've said everything I wanted to say. Now we know everything about each other. Though, from the moment we become friends, we'll never speak to each other again.",
+      "quotecharacter": "- Touma Kazusa,",
+      "quoteanime": " White Album"
+    }
+    
+    anime_quote[43] = {
+      "quotenumber": 44,
+      "quotesentence": "People don't realize they aren't able to choose whether or not to believe something. If they subconsciously believe something, therein lies the potential for a curse.",
+      "quotecharacter": "- Kanoe Yuuko,",
+      "quoteanime": " Tasogare Otome X Amnesia"
+    }
+    
+    anime_quote[44] = {
+      "quotenumber": 45,
+      "quotesentence": "Accident or amnesia, you can't rewind your life and start again. If you struggle, you'll just hurt yourself, and the people around you.",
+      "quotecharacter": "- Tada Banri,",
+      "quoteanime": " Golden Time"
+    }
+    
+    anime_quote[45] = {
+      "quotenumber": 46,
+      "quotesentence": "Onii-chan! You're going to split me in half!",
+      "quotecharacter": "- Onii-chan,",
+      "quoteanime": " Every Incest Hentai"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
