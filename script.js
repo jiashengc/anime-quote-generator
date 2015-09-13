@@ -132,9 +132,9 @@ $(document).ready(function() {
 
     anime_quote[18] = {
       "quotenumber": 19,
-      "quotesentence": "What are people? What is the "self"? So long as you look like someone else, no one can't tell who's really on the inside.",
-      "quotecharacter": "- Iori Nagase,",
-      "quoteanime": " Kokoro Connect"
+      "quotesentence": "The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it.",
+      "quotecharacter": "- Kagami Junichirou,",
+      "quoteanime": " Denpa Kyoushi"
     }
     
     anime_quote[19] = {
