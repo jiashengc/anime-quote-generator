@@ -202,7 +202,7 @@ $(document).ready(function() {
     
     anime_quote[28] = {
       "quotenumber": 29,
-      "quotesentence": "My, my! Do I really need to spell it out for you? There is nothing that you can acquire without making a move on your own. It's the same with romance - your only hope is to be more aggressive.",
+      "quotesentence": "There is nothing that you can acquire without making a move on your own. It's the same with romance - your only hope is to be more aggressive.",
       "quotecharacter": "- Marika Tachibana,",
       "quoteanime": " Nisekoi"
     }
@@ -324,6 +324,13 @@ $(document).ready(function() {
       "quotesentence": "Onii-chan! You're going to split me in half!",
       "quotecharacter": "- Every Imouto,",
       "quoteanime": " in Every Incest Hentai Ever"
+    }
+    
+    anime_quote[46] = {
+      "quotenumber": 47,
+      "quotesentence": "Fake people have an image to maintain. Real people just don't care.",
+      "quotecharacter": "- Hachiman Hikigaya,",
+      "quoteanime": " Yahari Ore No Seishun Love Come Wa Machigatteiru"
     }
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
