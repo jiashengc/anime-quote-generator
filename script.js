@@ -333,6 +333,13 @@ $(document).ready(function() {
       "quoteanime": " Yahari Ore No Seishun Love Come Wa Machigatteiru"
     }
     
+    anime_quote[47] = {
+      "quotenumber": 48,
+      "quotesentence": "Panties, Panties, Panties!",
+      "quotecharacter": "- Chii,",
+      "quoteanime": " Chobits"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
