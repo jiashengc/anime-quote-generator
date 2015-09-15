@@ -343,50 +343,50 @@ $(document).ready(function() {
     anime_quote[48] = {
       "quotenumber": 49,
       "quotesentence": "Brilliant people shine more brightly than ordinary ones. They never regret or agonize over what they've done.",
-      "quotecharacter": "- Archer,",
+      "quotecharacter": "- GArRcher,",
       "quoteanime": " Fate/stay night: Unlimited Blade Worlks"
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[49] = {
+      "quotenumber": 50,
+      "quotesentence": "A suicide means you've killed the most important existence of all: yourself.",
+      "quotecharacter": "- Monokuma,",
+      "quoteanime": " Danganronpa"
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[50] = {
+      "quotenumber": 51,
+      "quotesentence": "Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back.",
+      "quotecharacter": "- Ushiromiya Ange,",
+      "quoteanime": " Umineko no Naku Koro ni"
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[51] = {
+      "quotenumber": 52,
+      "quotesentence": "People who don't work hard don't have the right to be envious of the people with talent. People fail because they don't understand the hard work necessary to be successful.",
+      "quotecharacter": "- Yukino Yukinoshita,",
+      "quoteanime": " Yahari Ore no Seishun Love Come wa Machigatteiru."
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[52] = {
+      "quotenumber": 53,
+      "quotesentence": "In our society, letting others find out that you're a nice person is a very risky move. It's extremely likely that someone would take advantage of that.",
+      "quotecharacter": "- Hitagi Senjougahara,",
+      "quoteanime": " Bakemonogatari"
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[53] = {
+      "quotenumber": 54,
+      "quotesentence": "If everyone were perfect, there would be no need to look out for others. Sympathy or love is needed because people are imperfect. A perfect human cannot love anyone.",
+      "quotecharacter": "- Keima Katsuragi,",
+      "quoteanime": " Kami Nomi zo Shiru Sekai"
     }
     
-    anime_quote[] = {
-      "quotenumber": ,
-      "quotesentence": "",
-      "quotecharacter": "- ,",
-      "quoteanime": " "
+    anime_quote[54] = {
+      "quotenumber": 55,
+      "quotesentence": "I am who I am now because of everything that's happened. If I try to deny my past, I'm denying the person I've become. I don't want to do that.",
+      "quotecharacter": "- Iori Nagase,",
+      "quoteanime": " Kokoro Connect"
     }
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
