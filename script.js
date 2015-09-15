@@ -343,7 +343,7 @@ $(document).ready(function() {
     anime_quote[48] = {
       "quotenumber": 49,
       "quotesentence": "Brilliant people shine more brightly than ordinary ones. They never regret or agonize over what they've done.",
-      "quotecharacter": "- GArRcher,",
+      "quotecharacter": "- Archer,",
       "quoteanime": " Fate/stay night: Unlimited Blade Worlks"
     }
     
