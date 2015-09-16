@@ -389,6 +389,13 @@ $(document).ready(function() {
       "quoteanime": " Kokoro Connect"
     }
     
+    anime_quote[55] = {
+      "quotenumber": 56,
+      "quotesentence": "If only I could stand on a larger stage and have even more fans…but I realized something after yesterday’s performance. I was naive. Ultimately, what I enjoyed was being coddled by the fans of this familiar store.",
+      "quotecharacter": "- Miyu Okamoto,",
+      "quoteanime": " Wake Up, Girls!"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
