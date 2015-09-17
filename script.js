@@ -396,6 +396,13 @@ $(document).ready(function() {
       "quoteanime": " Wake Up, Girls!"
     }
     
+    anime_quote[56] = {
+      "quotenumber": 57,
+      "quotesentence": "I think there are many things in this world we are better off not knowing. Sometimes the truth is the cruelest thing of all. Not everyone can bear it. ",
+      "quotecharacter": "- Maria Akitsuki,",
+      "quoteanime": " Shinsekai Yori"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
