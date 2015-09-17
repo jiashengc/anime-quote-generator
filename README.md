@@ -3,7 +3,7 @@ A random anime quote generator that generates random quotes from different anime
 
 This generator was made as part of finishing the freecodecamp "Build a Random Quote Machine" challenge.
 
-Current amount of quotes: 47
+Current amount of quotes: 57
 
 # Interested in adding more quotes?
 If you would like to contribute. Just head over to "script.js" and commit the following to the file along with quote you wish to add:
