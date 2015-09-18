@@ -403,6 +403,13 @@ $(document).ready(function() {
       "quoteanime": " Shinsekai Yori"
     }
     
+    anime_quote[57] = {
+      "quotenumber": 58,
+      "quotesentence": "Death is terrible for anyone. Young or old, good or evil, it's all the same. Death is impartial. There is no especially terrible death. That's why death is so fearsome. Your deeds, your age, your personality, your wealth, your beauty... They are all meaningless in the face of death.",
+      "quotecharacter": "- Sunako Kirishiki,",
+      "quoteanime": " Shiki"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
