@@ -410,6 +410,20 @@ $(document).ready(function() {
       "quoteanime": " Shiki"
     }
     
+    anime_quote[58] = {
+      "quotenumber": 59,
+      "quotesentence": "Keeping all the wealth for yourself may make your rich, but it won’t make you prosperous. You give people money, and they spend it. True prosperity comes from a free flow of wealth and goods.",
+      "quotecharacter": "- Maou,",
+      "quoteanime": " Maoyuu Maou Yuusha"
+    }
+    
+    anime_quote[59] = {
+      "quotenumber": 60,
+      "quotesentence": "People aren't complicated. We work hard when we know that we'll get something in return, and we try to work even harder if that something is our own improvement.",
+      "quotecharacter": "- Kumiko Oumae,",
+      "quoteanime": " Hibike! Euphonium"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
