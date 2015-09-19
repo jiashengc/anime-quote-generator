@@ -429,6 +429,7 @@ $(document).ready(function() {
       "quotesentence": "No person can become a replacement for another. Not even the past version of themselves.",
       "quotecharacter": "- Ushiromiya Ange,",
       "quoteanime": " Umineko no Naku Koro ni"
+    }
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
