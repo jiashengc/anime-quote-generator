@@ -431,6 +431,13 @@ $(document).ready(function() {
       "quoteanime": " Umineko no Naku Koro ni"
     }
     
+    anime_quote[61] = {
+      "quotenumber": 62,
+      "quotesentence": "If you claim to love humans, that should include their lies and betrayals, their sins and ugliness, their jealousy and immaturity, their hatred and conflicts.",
+      "quotecharacter": "- Myouri Unzen,",
+      "quoteanime": " Medaka Box"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
