@@ -438,6 +438,13 @@ $(document).ready(function() {
       "quoteanime": " Medaka Box"
     }
     
+    anime_quote[62] = {
+      "quotenumber": 63,
+      "quotesentence": "Where will we be in five or ten years from now? No one knows. All we know right now, all we can see right now, is what's right in front of us. That's why we'll always live our 'right now' to the fullest!",
+      "quotecharacter": "- Kanzaki Tomoyo,",
+      "quoteanime": " Inou Battle wa Nichijou-kei no Naka de"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
