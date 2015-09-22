@@ -445,6 +445,13 @@ $(document).ready(function() {
       "quoteanime": " Inou Battle wa Nichijou-kei no Naka de"
     }
     
+    anime_quote[63] = {
+      "quotenumber": 64,
+      "quotesentence": "Don't believe in the you that believes in me and don't believe in the me that believes in you. Believe in the you that believes in yourself.!",
+      "quotecharacter": "- Kamina,",
+      "quoteanime": " Tengen Toppa Gurren Lagann"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
