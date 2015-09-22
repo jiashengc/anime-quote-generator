@@ -452,6 +452,13 @@ $(document).ready(function() {
       "quoteanime": " Tengen Toppa Gurren Lagann"
     }
     
+    anime_quote[64] = {
+      "quotenumber": 65,
+      "quotesentence": "Life eventually ends. But that doesn't mean that the fact that we met, or the time we spent together will disappear.",
+      "quotecharacter": "- Mei,",
+      "quoteanime": " Arashi no Yoru ni"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
