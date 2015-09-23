@@ -459,6 +459,13 @@ $(document).ready(function() {
       "quoteanime": " Arashi no Yoru ni"
     }
     
+    anime_quote[65] = {
+      "quotenumber": 66,
+      "quotesentence": "I have someone I like. I never had the confidence and I’ve doubted my feelings countless of times. But, when she stays by my side and smiles with me, I feel like I can do anything.",
+      "quotecharacter": "- Yoshida Haru,",
+      "quoteanime": " Tonari No Kaibutsu-kun"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
