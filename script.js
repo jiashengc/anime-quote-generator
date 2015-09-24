@@ -466,6 +466,13 @@ $(document).ready(function() {
       "quoteanime": " Tonari No Kaibutsu-kun"
     }
     
+    anime_quote[66] = {
+      "quotenumber": 67,
+      "quotesentence": "If you look away and just turn your back on those you don't understand, you'll regret it someday. Accept what's happening before your eyes as a fact. That's a shortcut to becoming an adult.",
+      "quotecharacter": "- Nobuchika Ginoza,",
+      "quoteanime": " Psycho-Pass"
+    }
+    
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
     $('.author').text(anime_quote[random_number].quotecharacter);
