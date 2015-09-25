@@ -447,7 +447,7 @@ $(document).ready(function() {
     
     anime_quote[63] = {
       "quotenumber": 64,
-      "quotesentence": "Don't believe in the you that believes in me and don't believe in the me that believes in you. Believe in the you that believes in yourself.!",
+      "quotesentence": "Don't believe in the you that believes in me and don't believe in the me that believes in you. Believe in the you that believes in yourself!",
       "quotecharacter": "- Kamina,",
       "quoteanime": " Tengen Toppa Gurren Lagann"
     }
@@ -472,6 +472,22 @@ $(document).ready(function() {
       "quotecharacter": "- Nobuchika Ginoza,",
       "quoteanime": " Psycho-Pass"
     }
+    
+    anime_quote[67] = {
+      "quotenumber": 68,
+      "quotesentence": "It's alright to feel sad. When you're sad, you should experience that sorrow fully. It's not too late to move on after that.",
+      "quotecharacter": "- Urutori,",
+      "quoteanime": " Utawarerumono"
+   }
+   
+   /* 
+   anime_quote[] = {
+      "quotenumber": ,
+      "quotesentence": "",
+      "quotecharacter": "- ,",
+      "quoteanime": " "
+    }
+    */
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
