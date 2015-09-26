@@ -480,6 +480,13 @@ $(document).ready(function() {
       "quoteanime": " Utawarerumono"
    }
    
+   anime_quote[68] = {
+      "quotenumber": 69,
+      "quotesentence": "Because my time is limited, I don't have any time to waste hesitating. That is why I can walk straight ahead. That is why I never stop.",
+      "quotecharacter": "- Rosette Christopher,",
+      "quoteanime": " Chrono Crusade"
+    }
+   
    /* 
    anime_quote[] = {
       "quotenumber": ,
@@ -487,7 +494,7 @@ $(document).ready(function() {
       "quotecharacter": "- ,",
       "quoteanime": " "
     }
-    */
+  */
     
     var random_number = Math.floor(Math.random() * (anime_quote.length));
     $('.sentence').text(anime_quote[random_number].quotesentence);
