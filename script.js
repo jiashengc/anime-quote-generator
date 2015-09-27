@@ -486,6 +486,13 @@ $(document).ready(function() {
       "quotecharacter": "- Rosette Christopher,",
       "quoteanime": " Chrono Crusade"
     }
+    
+    anime_quote[69] = {
+      "quotenumber": 70,
+      "quotesentence": "If a girl chases after you, it's likely a trap.",
+      "quotecharacter": "- Keima Katsuragi,",
+      "quoteanime": " Kami nomi zo Shiru Sekai"
+    }
    
    /* 
    anime_quote[] = {
