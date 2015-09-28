@@ -494,6 +494,12 @@ $(document).ready(function() {
       "quoteanime": " Kami nomi zo Shiru Sekai"
     }
    
+   anime_quote[70] = {
+      "quotenumber": 71,
+      "quotesentence": "People aren't as complex as you think they are. They're simple, and they get sad or angry over simple things. That's how they are. They're quickly affected by the littlest things, and live without knowing where they're going to fall down. That's who people are!",
+      "quotecharacter": "- Kurokami no Onna,",
+      "quoteanime": " Death Parade"
+    }
    /* 
    anime_quote[] = {
       "quotenumber": ,
