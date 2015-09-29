@@ -500,6 +500,14 @@ $(document).ready(function() {
       "quotecharacter": "- Kurokami no Onna,",
       "quoteanime": " Death Parade"
     }
+    
+    anime_quote[71] = {
+      "quotenumber": 72,
+      "quotesentence": "Greed may not be good, but it’s not so bad either. You humans think greed is just for money or power, but everyone wants something they can’t have.",
+      "quotecharacter": "- Greed,",
+      "quoteanime": " Fullmetal Alchemist"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
