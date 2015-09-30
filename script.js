@@ -508,6 +508,20 @@ $(document).ready(function() {
       "quoteanime": " Fullmetal Alchemist"
     }
     
+    anime_quote[72] = {
+      "quotenumber": 73,
+      "quotesentence": "If I'm getting in trouble no matter what I do, I may as well make a grand frontal assault and fight to my last breath.",
+      "quotecharacter": "- Yuuko Aioi,",
+      "quoteanime": " Nichijou"
+    }
+    
+    anime_quote[73] = {
+      "quotenumber": 74,
+      "quotesentence": "The ordinary days that we live in may, in fact, be a series of miracles.",
+      "quotecharacter": "- Koujirou Sasahara,",
+      "quoteanime": " Nichijou"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
