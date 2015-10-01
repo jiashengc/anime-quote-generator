@@ -522,6 +522,13 @@ $(document).ready(function() {
       "quoteanime": " Nichijou"
     }
     
+    anime_quote[74] = {
+      "quotenumber": 75,
+      "quotesentence": "By depending on others and letting them depend on you, people can exceed what they can do as individuals.",
+      "quotecharacter": "- Mikoto Misaka,",
+      "quoteanime": " To Aru Majutsu No Index"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
