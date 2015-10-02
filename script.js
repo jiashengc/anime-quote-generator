@@ -529,6 +529,13 @@ $(document).ready(function() {
       "quoteanime": " To Aru Majutsu No Index"
     }
     
+    anime_quote[75] = {
+      "quotenumber": 76,
+      "quotesentence": "Love is nothing more than a cultural idea attached to our pre-existing genetic needs to reproduce and gain recognition from our peers.",
+      "quotecharacter": "- Akane Senri,",
+      "quoteanime": " Rewrite"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
