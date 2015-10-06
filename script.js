@@ -536,6 +536,13 @@ $(document).ready(function() {
       "quoteanime": " Rewrite"
     }
     
+    anime_quote[76] = {
+      "quotenumber": 77,
+      "quotesentence": "You never appreciate the irreplaceable things in life until they're gone. Like summer vacation... or brothers.",
+      "quotecharacter": "- Umaru Doma,",
+      "quoteanime": " Himouto! Umaru-chan"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
