@@ -543,6 +543,13 @@ $(document).ready(function() {
       "quoteanime": " Himouto! Umaru-chan"
     }
     
+    anime_quote[77] = {
+      "quotenumber": 78,
+      "quotesentence": "Love is hating someone but you still want to be with them.",
+      "quotecharacter": "- Taichi Mashima,",
+      "quoteanime": " Chihayafuru"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
