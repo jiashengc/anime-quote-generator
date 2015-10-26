@@ -557,6 +557,13 @@ $(document).ready(function() {
       "quoteanime": " Aria The Animation"
     }
     
+    anime_quote[79] = {
+      "quotenumber": 80,
+      "quotesentence": "Everyone dies eventually, whether they have power or not. That's why you need to think about what you'll accomplish while you're alive.",
+      "quotecharacter": "- Mary Macbeth,",
+      "quoteanime": " Kekkai Sensen"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
