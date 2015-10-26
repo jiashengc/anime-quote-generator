@@ -550,6 +550,13 @@ $(document).ready(function() {
       "quoteanime": " Chihayafuru"
     }
     
+    anime_quote[78] = {
+      "quotenumber": 79,
+      "quotesentence": "I'm sure that things that are truly fun can't be compared. Back then, now, and from now on, in the time you spend with others, lots of small fun things are born and disappear. If you are able to capture each of them, you'll never run out of fun things. Forever and ever. And here's one point of advice. Thinking that now is fun is what makes it the most fun.",
+      "quotecharacter": "- Alicia Florence,",
+      "quoteanime": " Aria The Animation"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
