@@ -543,6 +543,27 @@ $(document).ready(function() {
       "quoteanime": " Himouto! Umaru-chan"
     }
     
+    anime_quote[77] = {
+      "quotenumber": 78,
+      "quotesentence": "Love is hating someone but you still want to be with them.",
+      "quotecharacter": "- Taichi Mashima,",
+      "quoteanime": " Chihayafuru"
+    }
+    
+    anime_quote[78] = {
+      "quotenumber": 79,
+      "quotesentence": "I'm sure that things that are truly fun can't be compared. Back then, now, and from now on, in the time you spend with others, lots of small fun things are born and disappear. If you are able to capture each of them, you'll never run out of fun things. Forever and ever. And here's one point of advice. Thinking that now is fun is what makes it the most fun.",
+      "quotecharacter": "- Alicia Florence,",
+      "quoteanime": " Aria The Animation"
+    }
+    
+    anime_quote[79] = {
+      "quotenumber": 80,
+      "quotesentence": "Everyone dies eventually, whether they have power or not. That's why you need to think about what you'll accomplish while you're alive.",
+      "quotecharacter": "- Mary Macbeth,",
+      "quoteanime": " Kekkai Sensen"
+    }
+    
    /* 
    anime_quote[] = {
       "quotenumber": ,
