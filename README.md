@@ -1,7 +1,7 @@
 # Anime Quote Generator
 A random anime quote generator that generates random quotes from different anime series or movies.
 
-This generator was made as part of finishing the freecodecamp "Build a Random Quote Machine" challenge.
+This generator was made as part of finishing the freeCodeCamp "Build a Random Quote Machine" Zipline challenge.
 
 Current amount of quotes: 59
 
