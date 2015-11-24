@@ -6,7 +6,7 @@ body {
   padding: 5px;
   margin: 0;
   font-size: 16px;
-  background: url(images/21829_anime_scenery.jpg) no-repeat center center fixed; 
+  background: #505050 url(images/21829_anime_scenery.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
