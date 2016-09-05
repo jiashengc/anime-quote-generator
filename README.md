@@ -3,9 +3,9 @@ A random anime quote generator that generates random quotes from different anime
 
 This generator was made as part of finishing the freeCodeCamp "Build a Random Quote Machine" Zipline challenge.
 
-Current amount of quotes: 59
+Current amount of quotes: **80**
 
-# Interested in adding more quotes?
+## Interested in adding more quotes?
 If you would like to contribute. Just head over to "script.js" and commit the following to the file along with quote you wish to add:
 
 ```
@@ -27,3 +27,6 @@ Here's an example.
       "quoteanime": " Sayonara Zetsubou Sensei"
     }
 ```
+
+## Use it in node.js
+[![NPM](https://nodei.co/npm/animequote.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/animequote/)
