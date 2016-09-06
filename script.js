@@ -564,8 +564,23 @@ $(document).ready(function() {
       "quoteanime": " Kekkai Sensen"
     }
     
+    anime_quote[80] = {
+      "quotenumber": 81,
+      "quotesentence": "Broadly speaking, there are two reasons a person feels the desire to teach something: Either he wants to pass on his successes or he wants to pass on his failures.",
+      "quotecharacter": "- Korosensei,",
+      "quoteanime": " Assasination Classroom"
+    }
+    
+    anime_quote[81] = {
+      "quotenumber": 82,
+      "quotesentence": "Oppression. Rule by fear. Dictatorships. It's a strange thing. Throughout history, for some reason, the lives of such rulers have always ended in the same way: Assassination by someone who isn't even part of a combat unit.",
+      "quotecharacter": "- Sora,",
+      "quoteanime": " No Game No Life"
+    }
+
+    
    /* 
-   anime_quote[] = {
+    anime_quote[] = {
       "quotenumber": ,
       "quotesentence": "",
       "quotecharacter": "- ,",
