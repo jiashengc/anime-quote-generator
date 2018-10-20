@@ -577,6 +577,13 @@ $(document).ready(function() {
       "quotecharacter": "- Sora,",
       "quoteanime": " No Game No Life"
     }
+    
+    anime_quote[82] = {
+      "quotenumber": 83,
+      "quotesentence": "Power isn't determined by your size, but the size of your heart and dreams!",
+      "quotecharacter": "- Monkey D. Luffy,",
+      "quoteanime": "One Piece"
+    }
 
     
    /* 
