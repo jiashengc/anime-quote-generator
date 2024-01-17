@@ -586,6 +586,14 @@ $(document).ready(function() {
     }
 
     
+    anime_quote[83] = {
+      "quotenumber": 84,
+      "quotesentence": "In my next life, I want to be me, and meet you again.",
+      "quotecharacter": "- Gon Freecss",
+      "quoteanime": "Hunter X Hunter"
+    }
+
+    
    /* 
     anime_quote[] = {
       "quotenumber": ,
